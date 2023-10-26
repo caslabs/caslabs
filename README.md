@@ -1,11 +1,11 @@
-professional avatar
+_professional avatar_
 
 https://jeraldy.com
 
-Cognitive Sciences and Artifical Intelligence
+_Cognitive Sciences and Artifical Intelligence + Theoretical CS_
 
 https://caslabs.ai/
 
-la matrix
+_la matrix_
 
 https://simulacrae.com
