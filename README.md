@@ -1,14 +1,3 @@
-_professional avatar_
-
-https://jeraldy.com
-
-_Cognitive Sciences and Artifical Intelligence + Theoretical CS_
-
-https://caslabs.ai/
-
-_la matrix_
-
-https://simulacrae.com
 
 All my pins are real world apps i've made since my middle school days. All are hackathons wins (+ an international award), software i've wrote as a ~15yo, and innovatin my local communities. _Mementos_ and _mantra_ and what not
 
